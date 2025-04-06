@@ -1,0 +1,18 @@
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 90px;
+  padding: 10px;
+  font-weight: bold;
+  border-radius: 12px;
+  text-decoration: none;
+  color: rgb(11, 71, 124);
+  background-color: aqua;
+}
